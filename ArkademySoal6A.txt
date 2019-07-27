@@ -1,0 +1,6 @@
+select nm.name, wk.name as work, kt.salary
+from Nama nm
+join Work wk
+on nm.id = wk.id
+join Kategori kt
+on wk.id = kt.id;
