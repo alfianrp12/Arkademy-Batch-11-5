@@ -9,7 +9,7 @@
  * @author Alfian R P
  */
 import java.util.Scanner;
-public class ArkademySoal4 {
+public class Main {
     public static void main(String args[]) {
         Scanner in = new Scanner (System.in);
         System.out.println("Jumlah Huruf Hidup");
