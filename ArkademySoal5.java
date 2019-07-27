@@ -9,7 +9,7 @@
  * @author Alfian R P
  */
 import java.util.Arrays;
-public class ArkademySoal5 {
+public class Main {
     String[][] data;
     public static void main(String args[]) {
         System.out.println("Urutan Abjad");
